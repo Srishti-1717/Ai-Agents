@@ -1,0 +1,4 @@
+crewai-tools
+chromadb==0.5.23
+tokenizers==0.20.3
+ipykernel
